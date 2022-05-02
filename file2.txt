@@ -1,2 +1,3 @@
 This is file2
 This is second line
+This is new changes
